@@ -6,11 +6,11 @@ I am open to remote opportunities with teams across the Americas, particularly *
 
 ## Selected work
 
-### VisionFabrik — AI video-generation SaaS
+### [VisionFabrik — AI content operations SaaS](https://github.com/AbelValencia/visionfabrik-case-study)
 
 Built a full-stack platform that automates scripting, media selection, text-to-speech, subtitles, video assembly, and scheduled publishing. The system includes multi-step generation workflows, usage quotas, cost controls, failure handling, and integrations with multiple AI and media providers.
 
-**Stack:** TypeScript, Next.js, React, NestJS, Node.js, PostgreSQL, Prisma, Docker, OpenAI, Gemini, ElevenLabs, Pexels, and FFmpeg.
+**Stack:** TypeScript, Next.js, React, Fastify, Node.js, PostgreSQL, Prisma, Docker, OpenAI, Gemini, Pexels, and FFmpeg.
 
 ### Nutribot AI — AI nutrition mobile application
 
@@ -39,11 +39,11 @@ My strongest work sits at the intersection of:
 
 ## Core stack
 
-**Languages:** TypeScript, JavaScript, Dart, SQL  
-**Frontend:** React, Next.js, Flutter, HTML, CSS  
-**Backend:** Node.js, NestJS, REST APIs, Firebase Cloud Functions  
-**Data:** PostgreSQL, Prisma, Firebase, Firestore  
-**AI:** OpenAI API, Gemini API, multimodal AI, prompt engineering, AI-assisted development  
+**Languages:** TypeScript, JavaScript, Dart, SQL<br>
+**Frontend:** React, Next.js, Flutter, HTML, CSS<br>
+**Backend:** Node.js, Fastify, NestJS, REST APIs, Firebase Cloud Functions<br>
+**Data:** PostgreSQL, Prisma, Firebase, Firestore<br>
+**AI:** OpenAI API, Gemini API, multimodal AI, prompt engineering, AI-assisted development<br>
 **Cloud and tools:** Docker, Railway, Google Cloud, Cloudflare, Git, GitHub, FFmpeg
 
 ## Current focus
