@@ -12,17 +12,17 @@ Built a full-stack platform that automates scripting, media selection, text-to-s
 
 **Stack:** TypeScript, Next.js, React, Fastify, Node.js, PostgreSQL, Prisma, Docker, OpenAI, Gemini, Pexels, and FFmpeg.
 
-### Nutribot AI — AI nutrition mobile application
+### [Nutribot AI — AI nutrition mobile application](https://github.com/AbelValencia/nutribot-ai-case-study)
 
-Built and released a mobile application that analyzes meal images with multimodal AI and helps users track calories and macronutrients. Implemented authentication, serverless functions, subscriptions, multilingual functionality, and mobile release workflows.
+Built a cross-platform application that turns meal images into editable nutrition estimates and helps users track calories and macronutrients. Implemented authenticated serverless AI calls, private user data, server-authoritative subscriptions, derived daily aggregates, CI, and controlled release workflows.
 
 **Stack:** Flutter, Dart, Firebase, Cloud Functions, multimodal AI APIs, RevenueCat, and Google Cloud.
 
-### CR-Valencia — radiology information system
+### [CR-Valencia — radiology operations platform](https://github.com/AbelValencia/cr-valencia-case-study)
 
-Designed and developed software around real clinical and administrative workflows, including patient registration, imaging operations, reporting, roles, permissions, and internal management. The product combines hands-on healthcare operations knowledge with full-stack product development.
+Designed and developed a radiology information system and hybrid PACS around real clinical and administrative workflows, including scheduling, patient registration, imaging, reporting, payments, inventory, portals, roles, permissions, auditability, and operational analytics.
 
-**Stack:** TypeScript, Next.js, NestJS, PostgreSQL, Prisma, and Docker.
+**Stack:** TypeScript, Next.js, NestJS, PostgreSQL, Prisma, Redis, BullMQ, Orthanc, DICOM, and Docker.
 
 ## How I work
 
