@@ -1,6 +1,6 @@
 # Hi, I'm Abel Valencia
 
-I'm an **AI-first full-stack product engineer** based in Cusco, Peru. I build and ship SaaS, mobile, and healthcare software across product, frontend, backend, data, cloud deployment, and AI integrations.
+I'm an **AI-first full-stack product engineer** based in Lima, Peru. I build and ship SaaS, mobile, and healthcare software across product, frontend, backend, data, cloud deployment, and AI integrations.
 
 I am open to remote opportunities with teams across the Americas, particularly **AI Product Engineer**, **Full-Stack AI Engineer**, **Product Engineer**, and **Software Engineer** roles.
 
