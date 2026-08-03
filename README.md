@@ -59,8 +59,8 @@ Most production repositories for VisionFabrik, Nutribot AI, and CR-Valencia are 
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/ricardo-abel-valencia-0a728bb3/)
+- [LinkedIn](https://www.linkedin.com/in/abel-valencia-ai-engineer/)
 - [Email](mailto:uravvp@gmail.com)
-- Location: Cusco, Peru
+- Location: Lima, Peru
 
 Commercial product development is organized under **SHOPPBAG LLC**.
